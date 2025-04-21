@@ -6,3 +6,6 @@ int main() {
     float panjang, lebar, luas;
 
 }
+// Input dari user
+cout << "Masukkan panjang (meter): ";
+cin >> panjang;
